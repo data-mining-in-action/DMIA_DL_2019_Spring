@@ -8,7 +8,7 @@
 
 # Вариант 2 (conda):
 1. В этом варианте для создания виртуального окружения мы воспользуемся conda, которую установили в шаге 0.
-2. Создаем окружение для python3.6 командой `conda create -n py36 python==3.6`. Обратите внимание на инструкции в конце установки, там будет написано, [как активировать окружение](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Если с версией python будут проблемы и не будет импортироваться tensorflow, можно попробовать полечить проблему создав окружение с версией python==3.6.1 `conda create -n py36 python==3.6.1`.
+2. Создаем окружение для python3.6 командой `conda create -n py36 python==3.6`. Обратите внимание на инструкции в конце установки, там будет написано, [как активировать окружение](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Если с версией python будут проблемы и не будет импортироваться tensorflow, можно попробовать полечить проблему создав окружение с версией python3.6.1 `conda create -n py36 python==3.6.1`.
 3. Активируйте его указанной выше командой.
 
 # Установка библиотек и запуск Jupyter Notebook
