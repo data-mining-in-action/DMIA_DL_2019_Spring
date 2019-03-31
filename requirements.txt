@@ -9,3 +9,6 @@ pydot==1.4.1
 requests==2.21.0
 scikit-image==0.14.1
 tqdm==4.29.1
+torch==1.0.1.post2
+torchvision==0.2.2.post3
+Pillow==5.4.1
