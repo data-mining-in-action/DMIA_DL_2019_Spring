@@ -12,3 +12,6 @@ tqdm==4.29.1
 torch==1.0.1.post2
 torchvision==0.2.2.post3
 Pillow==5.4.1
+pymorphy2==0.8
+gensim==3.7.2
+nltk==3.4
